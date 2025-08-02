@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Halaman Saya</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <h1>Halo, Dunia!</h1>
+    <p>Ini adalah website pertama saya.</p>
+</body>
+</html>
